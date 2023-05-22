@@ -43,27 +43,27 @@
 
 .item-0{
     grid-area: a; 
-    border: 3px solid black; 
+    border: 3px solid goldenrod; 
 }
 
 .item-1{
     grid-area: b;
-    border: 3px solid black; 
+    border: 3px solid goldenrod; 
 }
 
 .item-2{
     grid-area: c;
-    border: 3px solid black; 
+    border: 3px solid goldenrod; 
 }
 
 .item-3{
     grid-area: d;
-    border: 3px solid black; 
+    border: 3px solid goldenrod; 
 }
 
 .item-4{
     grid-area: e;
-    border: 3px solid black; 
+    border: 3px solid goldenrod; 
 }
 
  .img-grid{
