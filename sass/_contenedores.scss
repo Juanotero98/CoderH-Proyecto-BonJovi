@@ -1,0 +1,47 @@
+.parent{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(5, 19%);
+    row-gap: 1%;
+    grid-template-areas:    "a" 
+                            "b" 
+                            "c" 
+                            "d" 
+                            "e" 
+                            ;                        
+}
+
+.item-0{
+    grid-area: a; 
+    border: $bordes-cajas; 
+    
+}
+
+.item-1{
+    grid-area: b;
+    border: $bordes-cajas; 
+    
+}
+
+.item-2{
+    grid-area: c;
+    border: $bordes-cajas; 
+    
+}
+
+.item-3{
+    grid-area: d;
+    border: $bordes-cajas; 
+    
+}
+
+.item-4{
+    grid-area: e;
+    border: $bordes-cajas; 
+    
+}
+
+ .img-grid{
+    width: 300px;
+    height: 200px;
+ }  
