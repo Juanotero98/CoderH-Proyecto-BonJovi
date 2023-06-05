@@ -2,9 +2,12 @@
 $bordes-cajas: 3px solid goldenrod;
 $background-cajas: goldenrod;
 
+
 //IMPORTS//
 //IMPORT ESTILO CONTENEDORES//
 @import "contenedores";
+//IMPORT ESTILO BODY//
+@import "body";
 
 
 
@@ -39,11 +42,7 @@ $background-cajas: goldenrod;
 
  
 
- body{
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
- }
+
 
  main{
     height: 100%;

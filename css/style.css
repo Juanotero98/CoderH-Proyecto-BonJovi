@@ -9,31 +9,42 @@
 .item-0 {
   grid-area: a;
   border: 3px solid goldenrod;
+  background: goldenrod;
 }
 
 .item-1 {
   grid-area: b;
   border: 3px solid goldenrod;
+  background: goldenrod;
 }
 
 .item-2 {
   grid-area: c;
   border: 3px solid goldenrod;
+  background: goldenrod;
 }
 
 .item-3 {
   grid-area: d;
   border: 3px solid goldenrod;
+  background: goldenrod;
 }
 
 .item-4 {
   grid-area: e;
   border: 3px solid goldenrod;
+  background: goldenrod;
 }
 
 .img-grid {
-  width: 300px;
+  width: 200px;
   height: 200px;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
 .img-grupo {
@@ -59,12 +70,6 @@
 .icon {
   height: 70px;
   width: 70px;
-}
-
-body {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
 }
 
 main {

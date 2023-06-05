@@ -14,34 +14,43 @@
 .item-0{
     grid-area: a; 
     border: $bordes-cajas; 
+    background: $background-cajas;
     
+   
 }
+
+
 
 .item-1{
     grid-area: b;
-    border: $bordes-cajas; 
+    border: $bordes-cajas;
+    background: $background-cajas;
+  
     
 }
 
 .item-2{
     grid-area: c;
     border: $bordes-cajas; 
+    background: $background-cajas;
+    
     
 }
 
 .item-3{
     grid-area: d;
-    border: $bordes-cajas; 
-    
+    border: $bordes-cajas;
+    background: $background-cajas;  
 }
 
 .item-4{
     grid-area: e;
-    border: $bordes-cajas; 
+    border: $bordes-cajas;
+    background: $background-cajas; 
     
 }
 
  .img-grid{
-    width: 300px;
+    width: 200px;
     height: 200px;
  }  
