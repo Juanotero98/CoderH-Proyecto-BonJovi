@@ -8,14 +8,22 @@ $background-cajas: goldenrod;
 @import "contenedores";
 //IMPORT ESTILO BODY//
 @import "body";
+//IMPORT ESTILO FOTO GRUPO//
+@import "foto-grupo";
+//IMPORT ESTILO DISCOGRAFIA//
+@import "discografia";
+//IMPORT ESTILO CONTACTO//
+@import "contacto";
+//IMPORT ESTILO HEADER//
+@import "header";
+//IMPORT ESTILO MAIN//
+@import "main";
 
 
 
 
-.img-grupo{
-    height: 50%;
-    width: 50%;
-}
+
+
 
 .card-img-top{
     height: 50%;
@@ -23,28 +31,12 @@ $background-cajas: goldenrod;
 }
 
 
-.Img-discografia{
-    height: 50%;
-    width: 50%;
-}
 
 
-.contacto-imagen{
-    height: 25%;
-    width: 25%;  
-}
 
 
-.icon{
-    height: 70px;
-    width: 70px;;
-}
 
  
 
 
 
- main{
-    height: 100%;
-    min-height: 100vh;
- }

@@ -52,14 +52,13 @@ body {
   width: 50%;
 }
 
-.card-img-top {
+.Img-discografia {
   height: 50%;
   width: 50%;
 }
 
-.Img-discografia {
-  height: 50%;
-  width: 50%;
+.lista-canciones {
+  align-items: end;
 }
 
 .contacto-imagen {
@@ -75,6 +74,11 @@ body {
 main {
   height: 100%;
   min-height: 100vh;
+}
+
+.card-img-top {
+  height: 50%;
+  width: 50%;
 }
 
 /*# sourceMappingURL=style.css.map */
