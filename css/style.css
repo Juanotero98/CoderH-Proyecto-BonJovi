@@ -1,44 +1,44 @@
 .parent {
   display: grid;
   grid-template-columns: 100%;
-  grid-template-rows: repeat(5, 19%);
+  grid-template-rows: repeat(5, 1fr);
   row-gap: 1%;
   grid-template-areas: "a" "b" "c" "d" "e";
 }
 
 .item-0 {
   grid-area: a;
-  border: 3px solid goldenrod;
-  background: goldenrod;
+  border: 2px solid #000000;
+  background: #daa520;
 }
 
 .item-1 {
   grid-area: b;
-  border: 3px solid goldenrod;
-  background: goldenrod;
+  border: 2px solid #000000;
+  background: #daa520;
 }
 
 .item-2 {
   grid-area: c;
-  border: 3px solid goldenrod;
-  background: goldenrod;
+  border: 2px solid #000000;
+  background: #daa520;
 }
 
 .item-3 {
   grid-area: d;
-  border: 3px solid goldenrod;
-  background: goldenrod;
+  border: 2px solid #000000;
+  background: #daa520;
 }
 
 .item-4 {
   grid-area: e;
-  border: 3px solid goldenrod;
-  background: goldenrod;
+  border: 2px solid #000000;
+  background: #daa520;
 }
 
 .img-grid {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
 }
 
 body {
@@ -80,9 +80,17 @@ ul li a {
   width: 70px;
 }
 
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
 main {
   height: 100%;
   min-height: 100vh;
+}
+
+footer {
+  display: flex;
 }
 
 .card-img-top {

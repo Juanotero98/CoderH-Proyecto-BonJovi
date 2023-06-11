@@ -1,23 +1,26 @@
 //VARIABLES PARA CAJAS//
-$bordes-cajas: 3px solid goldenrod;
-$background-cajas: goldenrod;
+$bordes-cajas: 2px solid #000000;
+$background-cajas: #daa520;
+
 
 
 //IMPORTS//
 //IMPORT ESTILO CONTENEDORES//
-@import "contenedores";
+@import "./contenedores";
 //IMPORT ESTILO BODY//
-@import "body";
+@import "./body";
 //IMPORT ESTILO FOTO GRUPO//
-@import "foto-grupo";
+@import "./foto-grupo";
 //IMPORT ESTILO DISCOGRAFIA//
-@import "discografia";
+@import "./discografia";
 //IMPORT ESTILO CONTACTO//
-@import "contacto";
+@import "./contacto";
 //IMPORT ESTILO HEADER//
-@import "header";
+@import "./header";
 //IMPORT ESTILO MAIN//
-@import "main";
+@import "./main";
+//IMPORT ESTILO FOOTER//
+@import "./footer";
 
 
 

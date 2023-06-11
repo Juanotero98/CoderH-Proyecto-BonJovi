@@ -1,7 +1,7 @@
 .parent{
     display: grid;
     grid-template-columns: 100%;
-    grid-template-rows: repeat(5, 19%);
+    grid-template-rows: repeat(5, 1fr);
     row-gap: 1%;
     grid-template-areas:    "a" 
                             "b" 
@@ -15,6 +15,7 @@
     grid-area: a; 
     border: $bordes-cajas; 
     background: $background-cajas;
+    
     
    
 }
