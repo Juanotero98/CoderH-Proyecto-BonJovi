@@ -10,30 +10,35 @@
   grid-area: a;
   border: 2px solid #000000;
   background: #daa520;
+  font-family: cursive;
 }
 
 .item-1 {
   grid-area: b;
   border: 2px solid #000000;
   background: #daa520;
+  font-family: cursive;
 }
 
 .item-2 {
   grid-area: c;
   border: 2px solid #000000;
   background: #daa520;
+  font-family: cursive;
 }
 
 .item-3 {
   grid-area: d;
   border: 2px solid #000000;
   background: #daa520;
+  font-family: cursive;
 }
 
 .item-4 {
   grid-area: e;
   border: 2px solid #000000;
   background: #daa520;
+  font-family: cursive;
 }
 
 .img-grid {
@@ -45,6 +50,10 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+}
+
+.Texto-1 {
+  font-family: cursive;
 }
 
 .img-grupo {
@@ -64,6 +73,7 @@ body {
 .lista-canciones {
   font-size: 50px;
   list-style-type: none;
+  font-family: monospace;
 }
 
 ul li a {
@@ -73,6 +83,10 @@ ul li a {
 .contacto-imagen {
   height: 25%;
   width: 25%;
+}
+
+.biografia-contacto {
+  font-family: cursive;
 }
 
 .icon {

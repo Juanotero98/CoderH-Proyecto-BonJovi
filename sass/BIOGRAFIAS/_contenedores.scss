@@ -15,6 +15,7 @@
     grid-area: a; 
     border: $bordes-cajas; 
     background: $background-cajas;
+    font-family: cursive;
     
     
    
@@ -26,6 +27,7 @@
     grid-area: b;
     border: $bordes-cajas;
     background: $background-cajas;
+    font-family: cursive;
   
     
 }
@@ -34,6 +36,7 @@
     grid-area: c;
     border: $bordes-cajas; 
     background: $background-cajas;
+    font-family: cursive;
     
     
 }
@@ -42,12 +45,14 @@
     grid-area: d;
     border: $bordes-cajas;
     background: $background-cajas;  
+    font-family: cursive;
 }
 
 .item-4{
     grid-area: e;
     border: $bordes-cajas;
-    background: $background-cajas; 
+    background: $background-cajas;
+    font-family: cursive; 
     
 }
 

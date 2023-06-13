@@ -6,21 +6,21 @@ $background-cajas: #daa520;
 
 //IMPORTS//
 //IMPORT ESTILO CONTENEDORES//
-@import "./contenedores";
+@import "./BIOGRAFIAS/contenedores";
 //IMPORT ESTILO BODY//
-@import "./body";
+@import "./MAIN/body";
 //IMPORT ESTILO FOTO GRUPO//
-@import "./foto-grupo";
+@import "./MAIN/foto-grupo";
 //IMPORT ESTILO DISCOGRAFIA//
-@import "./discografia";
+@import "./MUSICA/discografia";
 //IMPORT ESTILO CONTACTO//
-@import "./contacto";
+@import "./CONTACTO/contacto";
 //IMPORT ESTILO HEADER//
-@import "./header";
+@import "./HEADER/header";
 //IMPORT ESTILO MAIN//
-@import "./main";
+@import "./MAIN/main";
 //IMPORT ESTILO FOOTER//
-@import "./footer";
+@import "./FOOTER/footer";
 
 
 
