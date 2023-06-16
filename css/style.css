@@ -10,35 +10,35 @@
   grid-area: a;
   border: 2px solid #000000;
   background: #daa520;
-  font-family: cursive;
+  font-family: "fa-light fa-kerning";
 }
 
 .item-1 {
   grid-area: b;
   border: 2px solid #000000;
   background: #daa520;
-  font-family: cursive;
+  font-family: "fa-light fa-kerning";
 }
 
 .item-2 {
   grid-area: c;
   border: 2px solid #000000;
   background: #daa520;
-  font-family: cursive;
+  font-family: "fa-light fa-kerning";
 }
 
 .item-3 {
   grid-area: d;
   border: 2px solid #000000;
   background: #daa520;
-  font-family: cursive;
+  font-family: "fa-light fa-kerning";
 }
 
 .item-4 {
   grid-area: e;
   border: 2px solid #000000;
   background: #daa520;
-  font-family: cursive;
+  font-family: "fa-light fa-kerning";
 }
 
 .img-grid {
@@ -50,10 +50,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-}
-
-.Texto-1 {
-  font-family: cursive;
+  font-family: "fa-light fa-kerning";
 }
 
 .img-grupo {
@@ -86,7 +83,7 @@ ul li a {
 }
 
 .biografia-contacto {
-  font-family: cursive;
+  font-family: "fa-light fa-kerning";
 }
 
 .icon {

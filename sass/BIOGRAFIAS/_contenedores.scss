@@ -15,7 +15,7 @@
     grid-area: a; 
     border: $bordes-cajas; 
     background: $background-cajas;
-    font-family: cursive;
+    font-family: "fa-light fa-kerning";
     
     
    
@@ -27,7 +27,7 @@
     grid-area: b;
     border: $bordes-cajas;
     background: $background-cajas;
-    font-family: cursive;
+    font-family: "fa-light fa-kerning";
   
     
 }
@@ -36,7 +36,7 @@
     grid-area: c;
     border: $bordes-cajas; 
     background: $background-cajas;
-    font-family: cursive;
+    font-family: "fa-light fa-kerning";
     
     
 }
@@ -45,14 +45,14 @@
     grid-area: d;
     border: $bordes-cajas;
     background: $background-cajas;  
-    font-family: cursive;
+    font-family: "fa-light fa-kerning";
 }
 
 .item-4{
     grid-area: e;
     border: $bordes-cajas;
     background: $background-cajas;
-    font-family: cursive; 
+    font-family: "fa-light fa-kerning"; 
     
 }
 
