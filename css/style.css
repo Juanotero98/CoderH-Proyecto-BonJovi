@@ -65,12 +65,13 @@ body {
 .Img-discografia {
   height: 45%;
   width: 45%;
+  align-items: center;
 }
 
 .lista-canciones {
   font-size: 50px;
   list-style-type: none;
-  font-family: monospace;
+  font-family: "fa-light fa-kerning";
 }
 
 ul li a {
@@ -86,13 +87,21 @@ ul li a {
   font-family: "fa-light fa-kerning";
 }
 
-.icon {
-  height: 70px;
-  width: 70px;
+.card {
+  background-color: goldenrod;
 }
 
 .navbar-collapse {
   justify-content: flex-end;
+}
+
+header {
+  background-color: goldenrod;
+  font-size: 25px;
+}
+
+.navbar-brand {
+  font-size: 25px;
 }
 
 main {
@@ -102,6 +111,12 @@ main {
 
 footer {
   display: flex;
+  background-color: goldenrod;
+}
+
+.icon {
+  height: 70px;
+  width: 70px;
 }
 
 .card-img-top {
