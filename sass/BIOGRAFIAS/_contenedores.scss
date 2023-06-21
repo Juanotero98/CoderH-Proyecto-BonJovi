@@ -16,6 +16,7 @@
     border: $bordes-cajas; 
     background: $background-cajas;
     font-family: $tipografias;
+    font-size: 20px;
     display: flex;
     flex-direction: column;
     
@@ -30,6 +31,7 @@
     border: $bordes-cajas;
     background: $background-cajas;
     font-family: $tipografias;
+    font-size: 20px;
     display: flex;
     flex-direction: column;
   
@@ -41,6 +43,7 @@
     border: $bordes-cajas; 
     background: $background-cajas;
     font-family: $tipografias;
+    font-size: 20px;
     display: flex;
     flex-direction: column;
     
@@ -52,6 +55,7 @@
     border: $bordes-cajas;
     background: $background-cajas;  
     font-family: $tipografias;
+    font-size: 20px;
     display: flex;
     flex-direction: column;
 }
@@ -60,7 +64,8 @@
     grid-area: e;
     border: $bordes-cajas;
     background: $background-cajas;
-    font-family: $tipografias; 
+    font-family: $tipografias;
+    font-size: 20px; 
     display: flex;
     flex-direction: column;
     

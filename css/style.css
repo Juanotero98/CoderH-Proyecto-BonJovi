@@ -11,6 +11,7 @@
   border: 2px solid #000000;
   background: #daa520;
   font-family: "fa-light fa-kerning";
+  font-size: 20px;
   display: flex;
   flex-direction: column;
 }
@@ -20,6 +21,7 @@
   border: 2px solid #000000;
   background: #daa520;
   font-family: "fa-light fa-kerning";
+  font-size: 20px;
   display: flex;
   flex-direction: column;
 }
@@ -29,6 +31,7 @@
   border: 2px solid #000000;
   background: #daa520;
   font-family: "fa-light fa-kerning";
+  font-size: 20px;
   display: flex;
   flex-direction: column;
 }
@@ -38,6 +41,7 @@
   border: 2px solid #000000;
   background: #daa520;
   font-family: "fa-light fa-kerning";
+  font-size: 20px;
   display: flex;
   flex-direction: column;
 }
@@ -47,6 +51,7 @@
   border: 2px solid #000000;
   background: #daa520;
   font-family: "fa-light fa-kerning";
+  font-size: 20px;
   display: flex;
   flex-direction: column;
 }
@@ -102,6 +107,7 @@ ul li a {
 
 .biografia-contacto {
   font-family: "fa-light fa-kerning";
+  font-size: 20px;
 }
 
 .card {
