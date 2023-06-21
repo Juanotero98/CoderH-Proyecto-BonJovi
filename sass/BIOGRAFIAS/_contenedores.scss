@@ -15,7 +15,9 @@
     grid-area: a; 
     border: $bordes-cajas; 
     background: $background-cajas;
-    font-family: "fa-light fa-kerning";
+    font-family: $tipografias;
+    display: flex;
+    flex-direction: column;
     
     
    
@@ -27,7 +29,9 @@
     grid-area: b;
     border: $bordes-cajas;
     background: $background-cajas;
-    font-family: "fa-light fa-kerning";
+    font-family: $tipografias;
+    display: flex;
+    flex-direction: column;
   
     
 }
@@ -36,7 +40,9 @@
     grid-area: c;
     border: $bordes-cajas; 
     background: $background-cajas;
-    font-family: "fa-light fa-kerning";
+    font-family: $tipografias;
+    display: flex;
+    flex-direction: column;
     
     
 }
@@ -45,18 +51,25 @@
     grid-area: d;
     border: $bordes-cajas;
     background: $background-cajas;  
-    font-family: "fa-light fa-kerning";
+    font-family: $tipografias;
+    display: flex;
+    flex-direction: column;
 }
 
 .item-4{
     grid-area: e;
     border: $bordes-cajas;
     background: $background-cajas;
-    font-family: "fa-light fa-kerning"; 
+    font-family: $tipografias; 
+    display: flex;
+    flex-direction: column;
     
 }
 
  .img-grid{
     width: 150px;
     height: 150px;
+    
+    
+    
  }  

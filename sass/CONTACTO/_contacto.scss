@@ -6,7 +6,7 @@
 }
 
 .biografia-contacto{
-    font-family: "fa-light fa-kerning";
+    font-family: $tipografias;
 }
 
 .card{
@@ -14,5 +14,8 @@
     
 }
 
-
+.boton{
+    display: flex;
+    justify-content: center;
+}
 
