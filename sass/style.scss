@@ -1,19 +1,7 @@
-//VARIABLES PARA CAJAS//
-$bordes-cajas: 2px solid #000000;
-$background-cajas: #daa520;
-
-
-//VARIABLES PARA TIPOGRAFIAS//
-$tipografias: "fa-light fa-kerning";
-
-
-//MIXIN PARA BOTON//
-@mixin boton {
-    display: flex;
-    justify-content: center;
-}
 
 //IMPORTS//
+//IMPORT DE VARIABLES//
+@import "./VARIABLES/variables";
 //IMPORT ESTILO CONTENEDORES//
 @import "./BIOGRAFIAS/contenedores";
 //IMPORT ESTILO BODY//
@@ -35,10 +23,8 @@ $tipografias: "fa-light fa-kerning";
 
 
 
-.card-img-top{
-    height: 50%;
-    width: 50%;
-}
+
+
 
 
 
