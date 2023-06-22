@@ -6,6 +6,11 @@ $background-cajas: #daa520;
 //VARIABLES PARA TIPOGRAFIAS//
 $tipografias: "fa-light fa-kerning";
 
+//MIXIN PARA BOTON//
+@mixin boton {
+    display: flex;
+    justify-content: center;
+}
 
 //IMPORTS//
 //IMPORT ESTILO CONTENEDORES//
@@ -24,8 +29,6 @@ $tipografias: "fa-light fa-kerning";
 @import "./MAIN/main";
 //IMPORT ESTILO FOOTER//
 @import "./FOOTER/footer";
-
-
 
 
 

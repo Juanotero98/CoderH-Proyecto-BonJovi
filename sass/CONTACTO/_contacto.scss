@@ -16,7 +16,7 @@
 }
 
 .boton{
-    display: flex;
-    justify-content: center;
+    @include boton;
+
 }
 
